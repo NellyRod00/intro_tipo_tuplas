@@ -1,12 +1,2 @@
-"# intro-progra--agodic25" 
 "# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
-"# intro_tipo_tuplas" 
+
