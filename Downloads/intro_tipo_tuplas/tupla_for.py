@@ -1,3 +1,5 @@
+#Equipo Tuplas: Leonel Ruvalcaba, Nayeli Rodriguez, Manuel Quintero y Perla Torres
+
 #Crea una tupla con los elementos que se desea
 Colores = ("rojo", "verde", "azul")
 # bucle for para recorrer los elementos de la tupla, iterando sobre ellos de uno en uno

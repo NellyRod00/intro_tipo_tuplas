@@ -1,3 +1,4 @@
+#Equipo Tuplas: Leonel Ruvalcaba, Nayeli Rodriguez, Manuel Quintero y Perla Torres
 
 # 1. Definición de la tupla de prendas
 prendas_de_vestir = ("Camisa", "Pantalón", "Chaqueta", "Calcetines", "Bufanda", "Gorro")

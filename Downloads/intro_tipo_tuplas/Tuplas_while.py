@@ -1,3 +1,5 @@
+#Equipo Tuplas: Leonel Ruvalcaba, Nayeli Rodriguez, Manuel Quintero y Perla Torres
+
 # Definimos una lista con frutas
 frutas = ("manzana", "banana", "cereza", "uva")
 print(f"La tupla de frutas es:\n{frutas}")  # Imprime la tupla completa

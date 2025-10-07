@@ -1,3 +1,5 @@
+#Equipo Tuplas: Leonel Ruvalcaba, Nayeli Rodriguez, Manuel Quintero y Perla Torres
+
 # Definimos una tupla con nombres
 nombres = ("Ana", "Luis", "María", "Carlos")
 print(f"la tupla de nombres es:\n{nombres}")    # Imprieme la tupla completa
